@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aplicação que permite o usuário criar uma lista de perfis favoritos do gitHub, exibindo informações como a quantidades de repositórios e seguidores do perfil adicionado. A página conta com funcionalidades de adicionar/remover perfis, direcionamento automático para o perfil adicionado, avisos de confirmação de remoção de perfil, perfis repetidos, bem como uma mensagem quando nenhum perfil se encontra adicionado. 
+Aplicação que permite o usuário criar uma lista de perfis favoritos do gitHub, exibindo informações como a quantidades de repositórios e seguidores do perfil adicionado. A página conta com funcionalidades de adicionar/remover perfis, direcionamento automático para o perfil adicionado, avisos de confirmação de remoção de perfil e perfis repetidos, bem como uma mensagem quando nenhum perfil se encontra adicionado. 
 
 ## 🔖 Layout
 
